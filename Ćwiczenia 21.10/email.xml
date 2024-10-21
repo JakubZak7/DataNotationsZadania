@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>Jakub</sender>
+    <recipient>Kacper</recipient>
+    <message>
+        <subject>Zadanie</subject>
+        <msg_body>E co było na zadanie z przyrki</msg_body>
+    </message>
+</email>
